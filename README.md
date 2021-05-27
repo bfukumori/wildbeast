@@ -5,7 +5,7 @@
   </a>
 </div>
 <div align="center">
-    <img alt="wildbeast" title="#wildbeast" src="/wildbeast.PNG" width="50%">
+    <img alt="wildbeast" title="#wildbeast" src="/wildbeast.PNG">
 </div>
 
 ## 💻 Sobre o projeto
@@ -22,12 +22,12 @@ O layout do site foi feito de maneira responsiva utilizando flexbox, grid e algu
 
 ### Web
 <div align="center">
-    <img alt="wildbeast" title="#wildbeast" src="/web.PNG" width="50%">
+    <img alt="wildbeast" title="#wildbeast" src="/web.PNG">
 </div>
 
 ### Mobile
 <div align="center">
-    <img alt="wildbeast-mobile" title="#wildbeast-mobile" src="/mobile.PNG">
+    <img alt="wildbeast-mobile" title="#wildbeast-mobile" src="/mobile.PNG" width="50%">
 </div>
 
 ---
