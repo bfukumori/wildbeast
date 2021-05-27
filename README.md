@@ -8,7 +8,7 @@
     <img alt="wildbeast" title="#wildbeast" src="/wildbeast.PNG">
 </div>
 
-## 💻 Sobre o projeto
+<h2>💻 Sobre o projeto</h2>
 
 📰 Wildbeast - Site desenvolvido no curso de CSS Grid Layout da Origamid. 
 
@@ -16,23 +16,23 @@ Nesse curso foi escrito um arquivo HTML simples de página única para focar no 
 
 ---
 
-## 🎨 Layout
+<h2>🎨 Layout</h2>
 
 O layout do site foi feito de maneira responsiva utilizando flexbox, grid e alguns media queries. Modifiquei um pouco alguns posicionamentos do original da aula para treinar os conhecimentos prévios obtidos no curso de flexbox.
 
-### Web
+<h3>Web</h3>
 <div align="center">
     <img alt="wildbeast" title="#wildbeast" src="/web.PNG">
 </div>
 
-### Mobile
+<h3>Mobile</h3>
 <div align="center">
     <img alt="wildbeast-mobile" title="#wildbeast-mobile" src="/mobile.PNG" width="50%">
 </div>
 
 ---
 
-## 🛠 Tecnologias
+<h2>🛠 Tecnologias</h2>
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
