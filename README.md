@@ -22,12 +22,12 @@ O layout do site foi feito de maneira responsiva utilizando flexbox, grid e algu
 
 <h3>Web</h3>
 <div align="center">
-    <img alt="wildbeast" title="#wildbeast" src="/web.PNG">
+    <img alt="wildbeast" title="#wildbeast" src="/web.PNG" width="500px">
 </div>
 
 <h3>Mobile</h3>
 <div align="center">
-    <img alt="wildbeast-mobile" title="#wildbeast-mobile" src="/mobile.PNG" width="50%">
+    <img alt="wildbeast-mobile" title="#wildbeast-mobile" src="/mobile.PNG" width="300px">
 </div>
 
 ---
